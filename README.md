@@ -515,7 +515,7 @@ En **conclusión**, consideramos que el resultado obtenido es muy positivo y que
 ## Paso 4. Exportación y Documentación 
 
 
-### 4.a Proceso de desarrollo: configuración y migración del diseño molecular
+### 4.a Proceso de desarrollo: configuración y migración del diseño realizado en la práctica 3
 ![Método UX](img/usabilityReview.png) 
 ----
 
