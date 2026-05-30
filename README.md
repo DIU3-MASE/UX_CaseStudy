@@ -484,7 +484,7 @@ Para el desarrollo del **Layout Hi-Fi** hemos empleado todo el diseño elaborado
 > - [Simulación del Layout Hi-Fi en Figma](https://www.figma.com/proto/kqoc6ABEWMTsvEt0HThlSB/MASE---Design-System-y-Layout-Hi-Fi-P3-DIU?node-id=34-20&starting-point-node-id=34%3A20&t=7bMmqCh5gpPTFGGi-1)
 
 
-### 3.3 Briefing 
+### 3.e Briefing 
 
 A modo de introducción, tal y como indicábamos en nuestra propuesta de valor, el proyecto **Capital Burger Facelift** busca rediseñar la página web de Capital Burger, abordando las principales debilidades detectadas en el análisis competitivo realizado. En concreto, se centra en **solucionar problemas como la falta de información relevante, así como una estructura y un diseño poco intuitivos que dificultan la navegación y la comprensión de la página web**. Pero este proyecto no solo tiene como propósito facilitar acciones clave o básicas, como realizar pedidos de forma rápida o encontrar información de utilidad, sino también transformar la web en una plataforma orientada a la gestión y organización de eventos privados (despedidas, cumpleaños, LAN parties, etc.), incorporando así una nueva funcionalidad destacada que no se ofrecía en la web original de Capital Burger: la **posibilidad de realizar reservas para este tipo de eventos, además de permitir conocer en todo momento las últimas novedades y los próximos eventos disponibles**.
 
