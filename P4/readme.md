@@ -4,8 +4,6 @@
 
 > [!NOTE]
 > ### Enlaces a Figma Make y a la versión web en producción:
-> 
-> <br>
 >
 > - Configuración y migración del diseño realizado en la práctica 3, usando [Figma Make](https://www.figma.com/make/vWoaBXcNMxKLEnaAlpXwsV/MASE---P%C3%A1gina-web-Capital-Burger-Facelift-P4-DIU?t=5PVQyhOrKImre2sg-1)
 >
