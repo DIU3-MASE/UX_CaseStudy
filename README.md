@@ -400,7 +400,7 @@ como para **móvil** (con tamaño 375x812px, retícula de 4 columnas, márgenes 
 ![Método UX](img/moodboard.png)
 -----
 
-**Modboard**, que nos ha ayudado a definir la apariencia visual de nuestro proyecto. En él también se encuentra la justificación de cada decisión tomada:
+**Moodboard**, que nos ha ayudado a definir la apariencia visual de nuestro proyecto. En él también se encuentra la justificación de cada decisión tomada:
 
 ![Moodboard](P3/1.Moodboard/Moodboard.png)
 
