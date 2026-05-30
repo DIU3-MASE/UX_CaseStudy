@@ -454,11 +454,11 @@ Tan solo apuntar que, **como punto fuerte del diseño destaca especialmente la p
 
 > [!NOTE]
 > ### Enlace a Figma:
-> Se ha proporcionado el enlace al archivo PDF con el resultado del Design System. No obstante, **se recomienda acceder a Figma** para una mejor evaluación, ya que podrían existir problemas de visualización del PDF debido a su elevado peso y, además, en este formato no se aprecia con precisión todos los detalles del diseño.
+> Se ha proporcionado el enlace al archivo PDF con el resultado del Design System. No obstante, **se recomienda acceder a Figma** para una mejor evaluación, ya que podrían existir problemas de visualización del archivo PDF debido a su elevado peso y, además, en este formato no se aprecia con precisión todos los detalles del diseño.
 > 
 > <br>
 >
-> Por tanto, se adjunta a continuación un enlace a Figma con el archivo que contiene el Design System junto con el Layout Hi-Fi.
+> Por tanto, se adjunta a continuación un enlace a Figma con el archivo que contiene el Design System (junto con el Layout Hi-Fi posterior).
 > 
 > - [Design System y Layout Hi-Fi en Figma](https://www.figma.com/design/kqoc6ABEWMTsvEt0HThlSB/MASE---Design-System-y-Layout-Hi-Fi-P3-DIU?node-id=10-2&t=8CgtZTVuSLpmiBIY-1)
 
@@ -473,11 +473,11 @@ Para el desarrollo del **Layout Hi-Fi** hemos empleado todo el diseño elaborado
 
 > [!NOTE]
 > ### Enlace a Figma:
-> Se ha proporcionado el enlace al archivo PDF con el resultado del Layout Hi-Fi. No obstante, **se recomienda acceder a Figma** para una mejor evaluación, ya que podrían existir problemas de visualización del PDF debido a su elevado peso y, además, en este formato no se permite visualizar ni comprobar los comportamientos de animación ni las transiciones del prototipo.
+> Se ha proporcionado el enlace al archivo PDF con el resultado del Layout Hi-Fi. No obstante, **se recomienda acceder a Figma** para una mejor evaluación, ya que podrían existir problemas de visualización del archivo PDF debido a su elevado peso y, además, en este formato no se permite visualizar ni comprobar los comportamientos de animación ni las transiciones del prototipo.
 > 
 > <br>
 >
-> Por tanto, se adjuntan a continuación dos enlaces a Figma: uno al archivo que contiene el Design System junto con el Layout Hi-Fi, y otro a la simulación interactiva del Layout Hi-Fi, donde es posible visualizar y probar su funcionamiento completo.
+> Por tanto, se adjuntan a continuación dos enlaces a Figma: uno al archivo que contiene el Layout Hi-Fi (junto con el Design System previo), y otro a la simulación interactiva del Layout Hi-Fi, donde es posible visualizar y probar su funcionamiento completo.
 > 
 > - [Design System y Layout Hi-Fi en Figma](https://www.figma.com/design/kqoc6ABEWMTsvEt0HThlSB/MASE---Design-System-y-Layout-Hi-Fi-P3-DIU?node-id=10-2&t=8CgtZTVuSLpmiBIY-1)
 >
