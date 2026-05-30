@@ -440,7 +440,7 @@ Además, nuestro eslogan resume la evolución de Capital Burger hacia Capital Bu
 
 *Todas las decisiones de diseño tomadas en esta sección y las diferentes herramientas (plugins, kits y recursos) de Figma empleadas se encuentran documentadas en el Briefing de la presente práctica.*
 
-:link: **Enlace al documento PDF: [Moodboard](P3/2.Design_System/Design_System.pdf)**
+:link: **Enlace al documento PDF: [Design System](P3/2.Design_System/Design_System.pdf)**
 
 
 ### 3.d Mockup
@@ -449,7 +449,7 @@ Además, nuestro eslogan resume la evolución de Capital Burger hacia Capital Bu
 
 Para el desarrollo del **Layout Hi-Fi** hemos empleado todo el diseño elaborado y optado por un enfoque más funcional, agradable y menos cansado para la vista en comparación con la página original de Capital Burger. En todo momento se ha utilizado la tipografía definida en el moodboard y se ha prestado especial atención a que el contraste de colores fuera apropiado, siguiendo siempre la paleta cromática establecida. Se ha buscado que las páginas contengan únicamente la cantidad de contenido justa y necesaria para no fatigar al usuario, tratando además de que la experiencia sea intuitiva y sencilla de utilizar. Todo está accesible a un solo clic. Además, en el prototipo se han simulado todos los comportamientos de animación y transiciones.
 
-:link: **Enlace al documento PDF: [Moodboard](P3/3.Layout_Hi-Fi/Layout_Hi-Fi.pdf)**
+:link: **Enlace al documento PDF: [Layout Hi-Fi](P3/3.Layout_Hi-Fi/Layout_Hi-Fi.pdf)**
 
 
 ### 3.3 Briefing 
