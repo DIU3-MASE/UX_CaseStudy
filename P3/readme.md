@@ -12,7 +12,7 @@
 > 
 > <br>
 >
-> Por tanto, se adjuntan a continuación dos enlaces: uno al archivo que contiene el Design System junto con el Layout Hi-Fi, y otro a la simulación interactiva del Layout Hi-Fi, donde es posible visualizar y probar su funcionamiento completo.
+> Por tanto, se adjuntan a continuación dos enlaces a Figma: uno al archivo que contiene el Design System junto con el Layout Hi-Fi, y otro a la simulación interactiva del Layout Hi-Fi, donde es posible visualizar y probar su funcionamiento completo.
 > 
 > - [Design System y Layout Hi-Fi en Figma](https://www.figma.com/design/kqoc6ABEWMTsvEt0HThlSB/MASE---Design-System-y-Layout-Hi-Fi-P3-DIU?node-id=10-2&t=8CgtZTVuSLpmiBIY-1)
 >
