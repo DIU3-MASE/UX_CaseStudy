@@ -8,7 +8,7 @@
 
 > [!NOTE]
 > ### Enlaces a Figma:
-> Como se acaba de indicar, en las carpetas correspondientes de esta práctica 3 en GitHub se han subido, entre otros, los archivos PDF con el resultado del Design System y del Layout Hi-Fi. No obstante, se recomienda **acceder a Figma**, ya que no solo pueden existir posibles problemas de visualización debido al elevado peso de los archivos PDF, sino que además en este formato no se aprecian con precisión todos los detalles del diseño. Además, el PDF no permite visualizar ni comprobar los comportamientos de animación y las transiciones del prototipo. Por este motivo, se recomienda consultar el proyecto en Figma para una mejor evaluación.
+> Como se ha indicado anteriormente, en las carpetas correspondientes de esta Práctica 3 en GitHub se han subido, entre otros, los archivos PDF con el resultado del Design System y del Layout Hi-Fi. No obstante, se recomienda acceder a Figma, ya que pueden existir posibles problemas de visualización debido al elevado peso de los archivos PDF y, además, en este formato no se aprecian con precisión todos los detalles del diseño. Por otro lado, el PDF no permite visualizar ni comprobar los comportamientos de animación ni las transiciones del prototipo. Por este motivo, se aconseja consultar el proyecto en Figma para una mejor evaluación.
 > 
 > <br>
 >
