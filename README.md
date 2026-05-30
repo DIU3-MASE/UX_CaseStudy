@@ -389,6 +389,8 @@ como para **móvil** (con tamaño 375x812px, retícula de 4 columnas, márgenes 
 
 :link: **Enlaces a los documentos PDF: [Boceto inicial a mano](P2/5.Prototipo/Boceto_inicial_a_mano.pdf), [Wireframes](P2/5.Prototipo/Wireframes.pdf)**
 
+
+
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -425,6 +427,27 @@ como para **móvil** (con tamaño 375x812px, retícula de 4 columnas, márgenes 
 ----
 
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+
+
+
+<br>
+
+## Paso 5. Exportación y Documentación 
+
+
+### 5.a Exportación a HTML/React
+![Método UX](img/usabilityReview.png) 
+----
+
+>>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+
+
+### 5.b Documentación con Storybook
+![Método UX](img/usabilityReview.png)
+----
+
+>>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+
 
 
 <br>
@@ -494,25 +517,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
 
-
-
-<br>
-
-## Paso 5. Exportación y Documentación 
-
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
 
 
 <br>
