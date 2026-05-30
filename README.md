@@ -440,7 +440,7 @@ Además, nuestro eslogan resume la evolución de Capital Burger hacia Capital Bu
 
 *Todas las decisiones de diseño tomadas en esta sección y las diferentes herramientas (plugins, kits y recursos) de Figma empleadas se encuentran documentadas en el Briefing de la presente práctica.*
 
-Tan solo apuntar que, **como punto fuerte del diseño destaca especialmente la página de reservas**, ya que representa el elemento principal ideado en nuestra propuesta de valor. Por ello, es donde más se han concentrado los esfuerzos del proyecto. Aunque se puede ver todo con detalle en los enlaces que a continuación se proporcionan, se muestra previamente una serie de imágenes relacionadas con el diseño de la página de reservas:
+Tan solo apuntar que, **como punto fuerte del diseño destaca especialmente la página de reservas**, ya que representa el elemento principal ideado en nuestra propuesta de valor. Por ello, es uno de los aspectos en los que más se han concentrado los esfuerzos del proyecto. Aunque se puede ver todo con detalle en los enlaces que a continuación se proporcionan, se muestra previamente una serie de imágenes relacionadas con el diseño de la página de reservas:
 
 ![Reservas (ningún restaurante seleccionado)](P3/2.Design_System/Imagenes_punto_fuerte_del_Design_System/Reservas_I.png)
 
