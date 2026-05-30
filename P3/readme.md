@@ -3,6 +3,8 @@
 - Moodboard (diseño visual + logotipo): [Moodboard](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P3/1.Moodboard/Moodboard.pdf)   
 - Design System: [Design System](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P3/2.Design_System/Design_System.pdf) 
 - Mockup: [Layout Hi-Fi](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P3/3.Layout_Hi-Fi/Layout_Hi-Fi.pdf)
+- Briefing: [Layout Hi-Fi](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P3/4.Briefing/Briefing.pdf)
+
 - Publicación del Case Study: [Nuestro UX Case Study](https://github.com/DIU3-MASE/UX_CaseStudy)
 
 > [!NOTE]
