@@ -27,11 +27,15 @@ La idea de nuestro proyecto es rediseñar la página web de Capital Burger para 
 
 Logotipo: 
 
-![Logotipo Capital Burger Facelift](P3/1.Moodboard/Logos/Logo_v1.png)
+<img src="P3/1.Moodboard/Logos/Logo_v1.png"
+     alt="Logotipo Capital Burger Facelift"
+     width="300">
 
 Eslogan:
 
-![Eslogan Capital Burger Facelift](P3/1.Moodboard/Eslogan/Eslogan.png)
+<img src="P3/1.Moodboard/Eslogan/Eslogan.png"
+     alt="Eslogan Capital Burger Facelift"
+     width="400">
 
 Miembros y nombre del equipo: MASE
  * :bust_in_silhouette:  Manuel Enríquez Ledesma     :octocat:  [manuenrle](https://github.com/manuenrle)     
