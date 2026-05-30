@@ -19,5 +19,5 @@
 > - [Simulación del Layout Hi-Fi en Figma](https://www.figma.com/proto/kqoc6ABEWMTsvEt0HThlSB/MASE---Design-System-y-Layout-Hi-Fi-P3-DIU?node-id=34-20&starting-point-node-id=34%3A20&t=7bMmqCh5gpPTFGGi-1)
 
 
-### Conclusiones
+### Conclusiones
 Práctica 3
