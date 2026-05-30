@@ -472,7 +472,7 @@ Para el desarrollo del **Layout Hi-Fi** hemos empleado todo el diseño elaborado
 :link: **Enlace al documento PDF: [Layout Hi-Fi](P3/3.Layout_Hi-Fi/Layout_Hi-Fi.pdf)**
 
 > [!NOTE]
-> ### Enlace a Figma:
+> ### Enlaces a Figma:
 > Se ha proporcionado el enlace al archivo PDF con el resultado del Layout Hi-Fi. No obstante, **se recomienda acceder a Figma** para una mejor evaluación, ya que podrían existir problemas de visualización del archivo PDF debido a su elevado peso y, además, en este formato no se permite visualizar ni comprobar los comportamientos de animación ni las transiciones del prototipo.
 > 
 > <br>
