@@ -20,4 +20,10 @@
 
 
 ### Conclusiones
-Práctica 3
+En esta práctica 3, bajo el concepto de **Capital Burger Facelift** hemos rediseñado la web de Capital Burger con el objetivo de mejorar su usabilidad, estructura y experiencia de usuario, solucionando problemas detectados en el análisis previo e incorporado una nueva funcionalidad orientada a la gestión y reserva de eventos.
+
+A partir del moodboard hemos definido la identidad visual del proyecto, lo que nos ha permitido elaborar posteriormente un Design System adecuado. Sobre esta base hemos construido el Layout Hi-Fi junto a la simulación, aplicando de forma consistente el sistema de diseño y cuidando la jerarquía visual, el contraste y la experiencia de usuario.
+
+Como punto fuerte del diseño destaca especialmente la página de reservas, ya que representa el elemento principal ideado en nuestra propuesta de valor.
+
+En conclusión, consideramos que el resultado obtenido es muy positivo y que siempre existe margen de mejora. En nuestro caso, las páginas más secundarias del proyecto -es decir, aquellas menos relacionadas con nuestra propuesta de valor principal- también han sido mejoradas respecto a la versión original en términos de visibilidad y facilidad de uso, cumpliendo así otro de nuestros objetivos: lograr una web más usable y accesible para los clientes. No obstante, con más tiempo disponible, nos habría gustado seguir trabajando en el diseño de dichas páginas secundarias para perfeccionar más todos los detalles y alcanzar un resultado todavía más completo.
