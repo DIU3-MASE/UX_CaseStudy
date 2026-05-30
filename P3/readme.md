@@ -9,9 +9,10 @@
 > [!NOTE]
 > ### Enlaces a Figma:
 > 
-> - [Design System y Layout Hi-Fi en Figma](https://www.figma.com/design/kqoc6ABEWMTsvEt0HThlSB/MASE---Design-System-y-Layout-Hi-Fi-P3-DIU?node-id=10-2&t=8CgtZTVuSLpmiBIY-1)
+> - Design System y Layout Hi-Fi en Figma: [Design System y Layout Hi-Fi](https://www.figma.com/design/kqoc6ABEWMTsvEt0HThlSB/MASE---Design-System-y-Layout-Hi-Fi-P3-DIU?node-id=10-2&t=8CgtZTVuSLpmiBIY-1)
 >
-> - [Simulación del Layout Hi-Fi en Figma](https://www.figma.com/proto/kqoc6ABEWMTsvEt0HThlSB/MASE---Design-System-y-Layout-Hi-Fi-P3-DIU?node-id=34-20&starting-point-node-id=34%3A20&t=7bMmqCh5gpPTFGGi-1)
+> - Simulación del Layout Hi-Fi en Figma: [Simulación del Layout Hi-Fi](https://www.figma.com/proto/kqoc6ABEWMTsvEt0HThlSB/MASE---Design-System-y-Layout-Hi-Fi-P3-DIU?node-id=34-20&starting-point-node-id=34%3A20&t=7bMmqCh5gpPTFGGi-1)
+
 
 ### Conclusiones
 
