@@ -452,6 +452,16 @@ Tan solo apuntar que, **como punto fuerte del diseño destaca especialmente la p
 
 :link: **Enlace al documento PDF: [Design System](P3/2.Design_System/Design_System.pdf)**
 
+> [!NOTE]
+> ### Enlace a Figma:
+> Se ha proporcionado el enlace al archivo PDF con el resultado del Design System. No obstante, **se recomienda acceder a Figma** para una mejor evaluación, ya que podrían existir problemas de visualización del PDF debido a su elevado peso y, además, en este formato no se aprecia con precisión todos los detalles del diseño.
+> 
+> <br>
+>
+> Por tanto, se adjunta a continuación un enlace a Figma con el archivo que contiene el Design System junto con el Layout Hi-Fi.
+> 
+> - [Design System y Layout Hi-Fi en Figma](https://www.figma.com/design/kqoc6ABEWMTsvEt0HThlSB/MASE---Design-System-y-Layout-Hi-Fi-P3-DIU?node-id=10-2&t=8CgtZTVuSLpmiBIY-1)
+
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
@@ -460,6 +470,18 @@ Tan solo apuntar que, **como punto fuerte del diseño destaca especialmente la p
 Para el desarrollo del **Layout Hi-Fi** hemos empleado todo el diseño elaborado y optado por un enfoque más funcional, agradable y menos cansado para la vista en comparación con la página original de Capital Burger. En todo momento se ha utilizado la tipografía definida en el moodboard y se ha prestado especial atención a que el contraste de colores fuera apropiado, siguiendo siempre la paleta cromática establecida. Se ha buscado que las páginas contengan únicamente la cantidad de contenido justa y necesaria para no fatigar al usuario, tratando además de que la experiencia sea intuitiva y sencilla de utilizar. Todo está accesible a un solo clic. Además, en el prototipo se han simulado todos los comportamientos de animación y transiciones.
 
 :link: **Enlace al documento PDF: [Layout Hi-Fi](P3/3.Layout_Hi-Fi/Layout_Hi-Fi.pdf)**
+
+> [!NOTE]
+> ### Enlace a Figma:
+> Se ha proporcionado el enlace al archivo PDF con el resultado del Layout Hi-Fi. No obstante, **se recomienda acceder a Figma** para una mejor evaluación, ya que podrían existir problemas de visualización del PDF debido a su elevado peso y, además, en este formato no se permite visualizar ni comprobar los comportamientos de animación ni las transiciones del prototipo.
+> 
+> <br>
+>
+> Por tanto, se adjuntan a continuación dos enlaces a Figma: uno al archivo que contiene el Design System junto con el Layout Hi-Fi, y otro a la simulación interactiva del Layout Hi-Fi, donde es posible visualizar y probar su funcionamiento completo.
+> 
+> - [Design System y Layout Hi-Fi en Figma](https://www.figma.com/design/kqoc6ABEWMTsvEt0HThlSB/MASE---Design-System-y-Layout-Hi-Fi-P3-DIU?node-id=10-2&t=8CgtZTVuSLpmiBIY-1)
+>
+> - [Simulación del Layout Hi-Fi en Figma](https://www.figma.com/proto/kqoc6ABEWMTsvEt0HThlSB/MASE---Design-System-y-Layout-Hi-Fi-P3-DIU?node-id=34-20&starting-point-node-id=34%3A20&t=7bMmqCh5gpPTFGGi-1)
 
 
 ### 3.3 Briefing 
