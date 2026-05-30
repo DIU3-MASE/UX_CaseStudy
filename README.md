@@ -512,29 +512,46 @@ En **conclusión**, consideramos que el resultado obtenido es muy positivo y que
 
 <br>
 
-## Paso 5. Exportación y Documentación 
+## Paso 4. Exportación y Documentación 
 
 
-### 5.a Exportación a HTML/React
+### 4.a Proceso de desarrollo: configuración y migración del diseño molecular
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+> [!NOTE]
+> ### Enlace a Figma Make:
+> 
+> - Configuración y migración del diseño realizado en la práctica 3, usando [Figma Make](https://www.figma.com/make/vWoaBXcNMxKLEnaAlpXwsV/MASE---P%C3%A1gina-web-Capital-Burger-Facelift-P4-DIU?t=5PVQyhOrKImre2sg-1)
 
 
-### 5.b Documentación con Storybook
+### 4.b WebApp publicada
 ![Método UX](img/usabilityReview.png)
 ----
 
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+> [!NOTE]
+> ### Enlace a la versión web en producción:
+> 
+> - [Página web publicada](https://user-yellow-67169682.figma.site)
+
+
+### 4.c Briefing 
+
+Antes de iniciar esta práctica 4 nos centramos en desarrollar un prototipo (Layout Hi-Fi) a partir de un **sistema de diseño creado en Figma mediante el uso de átomos, moléculas, organismos y patrones. Este sistema de diseño, elaborado en la práctica 3, nos permitió establecer una buena estructura visual y funcional desde la que comenzar a construir la página web, guiando posteriormente a Figma Make durante todo el proceso de generación e iteración**. Dicho prototipo puede observarse en la práctica 3, donde ya se apreciaban gran parte de las ideas y decisiones de diseño que finalmente se han trasladado a la versión web definitiva, manteniendo así una gran coherencia entre la conceptualización inicial y el resultado final.
+
+Tal y como se ha mencionado anteriormente, utilizamos **Figma Make** para lanzar la versión web en producción. No obstante, **este proceso presentó algunos inconvenientes en su fase inicial**, ya que la primera generación de la página no era visualizable debido a errores de importación que no conseguíamos solucionar. **Para resolver este problema**, fue necesario crear un nuevo archivo de Figma y regenerar directamente la página desde cero. Aunque la solución obtenida en un primer momento no resultaba especialmente atractiva a nivel visual, permitió continuar con el desarrollo del proyecto y trabajar posteriormente, de manera progresiva, sobre una base funcional.
+
+A partir de ese punto, el resto del proceso consistió principalmente en **guiar a la inteligencia artificial mediante distintas iteraciones para ajustar progresivamente la web a nuestra visión original e incluso incorporar mejoras que no aparecían en el prototipo inicial**. Más allá de los problemas iniciales ya comentados, no surgieron grandes inconvenientes durante el desarrollo. En términos generales, hemos intentado mantenernos lo más fieles posible al prototipo diseñado previamente, aunque el lanzamiento de la versión web en producción nos permitió aprovechar las posibilidades de Figma Make para añadir y perfeccionar ciertos detalles. En la **página de inicio** se mejoró el diseño del carrete de novedades y de eventos, incorporándose además tres pequeñas secciones informativas destinadas a destacar aquellos aspectos que diferencian a Capital Burger de otros restaurantes de comida rápida. En la **página de “Nosotros”** se añadió una sección de contacto al final, reutilizando componentes ya diseñados para la página de reservas, además de incluir enlaces a las redes sociales de Capital Burger. En la **página de “Carta”**, el diseño original se mantuvo prácticamente intacto, añadiéndose únicamente una subsección de menú infantil y sustituyendo el icono de compartir de las tarjetas por un icono de flecha orientado hacia la fotografía, de manera que al hacer clic sobre ella se despliega toda la información relacionada con el producto y los alérgenos asociados. En la **página de “Reservar”** también se respetó en gran medida el diseño inicial, aunque se implementaron algunas mejoras: el formulario de reserva pasó a situarse en la parte izquierda, mientras que en la parte superior derecha se muestra la fotografía y tarjeta informativa del restaurante seleccionado, ya sea escogido desde el mapa interactivo inferior o desde el selector incluido en el propio formulario. Además, en el espacio restante entre el mapa interactivo y el final de la página se incorporó una sección de preguntas frecuentes relacionadas con el proceso de reserva. Finalmente, en las **páginas de “Términos y condiciones”**, **“Política de privacidad”** y **“Política de cookies”**, las modificaciones realizadas respecto al diseño original se centraron únicamente en el formateo y organización del texto, con el objetivo de mejorar su legibilidad y facilitar la lectura por parte de los usuarios.
+
+:link: **Enlace al documento PDF: [Briefing](P4/3.Briefing/Briefing.pdf)**
 
 
 
 <br>
 
-## Paso 4. Pruebas de Evaluación 
+## Paso 5. Pruebas de Evaluación 
 
-### 4.a Reclutamiento de usuarios 
+### 5.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
 -----
 
@@ -551,7 +568,7 @@ En **conclusión**, consideramos que el resultado obtenido es muy positivo y que
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
-### 4.b Diseño de las pruebas 
+### 5.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
 
@@ -559,7 +576,7 @@ En **conclusión**, consideramos que el resultado obtenido es muy positivo y que
 
 
 
-### 4.c Cuestionario SUS
+### 5.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
 
@@ -569,13 +586,13 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
 
 
-### 4.d A/B Testing
+### 5.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
-### 4.e Aplicación del método Eye Tracking 
+### 5.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
 
@@ -588,7 +605,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
 
 
-### 4.f Usability Report de B
+### 5.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
 
