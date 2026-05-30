@@ -8,7 +8,7 @@ Prácticas Diseño Interfaces de Usuario [Tema: Sabores con encanto (Fast Food e
 
 
 
-Actualizado: 13/04/2026
+Actualizado: 30/05/2026
 
 
 
