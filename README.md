@@ -27,7 +27,11 @@ La idea de nuestro proyecto es rediseñar la página web de Capital Burger para 
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![Logotipo Capital Burger Facelift](P3/1.Moodboard/Logos/Logo_v1.png)
+
+Eslogan:
+
+![Eslogan Capital Burger Facelift](P3/1.Moodboard/Eslogan/Eslogan.png)
 
 Miembros y nombre del equipo: MASE
  * :bust_in_silhouette:  Manuel Enríquez Ledesma     :octocat:  [manuenrle](https://github.com/manuenrle)     
