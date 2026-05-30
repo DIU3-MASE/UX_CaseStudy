@@ -442,13 +442,13 @@ Además, nuestro eslogan resume la evolución de Capital Burger hacia Capital Bu
 
 Tan solo apuntar que, **como punto fuerte del diseño destaca especialmente la página de reservas**, ya que representa el elemento principal ideado en nuestra propuesta de valor. Por ello, es donde más se han concentrado los esfuerzos del proyecto. Aunque se puede ver todo con detalle en los enlaces que a continuación se proporcionan, se muestra previamente una serie de imágenes relacionadas con el diseño de la página de reservas:
 
-![Reservas (ningún restaurante seleccionado)](P3/2.Design_System/Reservas_I.png)
+![Reservas (ningún restaurante seleccionado)](P3/2.Design_System/Imagenes_punto_fuerte_del_Design_System/Reservas_I.png)
 
-![Reservas Capital Burger Granada (Capuchinas)](P3/2.Design_System/Reservas_II.png)
+![Reservas Capital Burger Granada (Capuchinas)](P3/2.Design_System/Imagenes_punto_fuerte_del_Design_System/Reservas_II.png)
 
-![Reservas Capital Burger Granada (Acera del Darro)](P3/2.Design_System/Reservas_III.png)
+![Reservas Capital Burger Granada (Acera del Darro)](P3/2.Design_System/Imagenes_punto_fuerte_del_Design_System/Reservas_III.png)
 
-![Reservas Capital Burger Salobreña](P3/2.Design_System/Reservas_IV.png)
+![Reservas Capital Burger Salobreña](P3/2.Design_System/Imagenes_punto_fuerte_del_Design_System/Reservas_IV.png)
 
 :link: **Enlace al documento PDF: [Design System](P3/2.Design_System/Design_System.pdf)**
 
