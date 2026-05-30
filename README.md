@@ -395,38 +395,86 @@ como para **móvil** (con tamaño 375x812px, retícula de 4 columnas, márgenes 
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+**Modboard**, que nos ha ayudado a definir la apariencia visual de nuestro proyecto. En él también se encuentra la justificación de cada decisión tomada:
+
+![Moodboard](P3/1.Moodboard/Moodboard.png)
+
+Como se puede observar en el mismo, se han ideado tres versiones distintas del logo para su uso en diferentes situaciones:
+
+<img src="P3/1.Moodboard/Logos/Logo_v1.png"
+     alt="Logotipo Capital Burger Facelift"
+     width="500">
+
+<img src="P3/1.Moodboard/Logos/Logo_v2.png"
+     alt="Logotipo Capital Burger Facelift"
+     width="500">
+
+<img src="P3/1.Moodboard/Logos/Logo_v3.png"
+     alt="Logotipo Capital Burger Facelift"
+     width="500">
+
+Además, nuestro eslogan resume la evolución de Capital Burger hacia Capital Burger Facelift, pasando de una propuesta solo centrada en el producto a una marca orientada también a la experiencia social, en línea con nuestra estrategia:
+
+<img src="P3/1.Moodboard/Eslogan/Eslogan.png"
+     alt="Eslogan Capital Burger Facelift"
+     width="600">
+
+:link: **Enlace al documento PDF: [Moodboard](P3/1.Moodboard/Moodboard.pdf)**
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+*La Landing Page del producto se realizó a partir del moodboard con ayuda de Figma Make, con el único objetivo de que sirviera de apoyo para los siguientes pasos del proyecto. Sin embargo, no se comentará en profundidad y tan solo se añade esta breve aclaración, ya que no influye directamente en la evaluación de esta práctica, puesto que formó parte de una actividad de teoría realizada en clase.*
 
 
-### 3.c Guidelines
+### 3.c Design System
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+*Todas las decisiones de diseño tomadas en esta sección y las diferentes herramientas (plugins, kits y recursos) de Figma empleadas se encuentran documentadas en el Briefing de la presente práctica.*
+
+:link: **Enlace al documento PDF: [Moodboard](P3/2.Design_System/Design_System.pdf)**
 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+Para el desarrollo del **Layout Hi-Fi** hemos empleado todo el diseño elaborado y optado por un enfoque más funcional, agradable y menos cansado para la vista en comparación con la página original de Capital Burger. En todo momento se ha utilizado la tipografía definida en el moodboard y se ha prestado especial atención a que el contraste de colores fuera apropiado, siguiendo siempre la paleta cromática establecida. Se ha buscado que las páginas contengan únicamente la cantidad de contenido justa y necesaria para no fatigar al usuario, tratando además de que la experiencia sea intuitiva y sencilla de utilizar. Todo está accesible a un solo clic. Además, en el prototipo se han simulado todos los comportamientos de animación y transiciones.
+
+:link: **Enlace al documento PDF: [Moodboard](P3/3.Layout_Hi-Fi/Layout_Hi-Fi.pdf)**
+
+
+### 3.3 Briefing 
+
+A modo de introducción, tal y como indicábamos en nuestra propuesta de valor, el proyecto **Capital Burger Facelift** busca rediseñar la página web de Capital Burger, abordando las principales debilidades detectadas en el análisis competitivo realizado. En concreto, se centra en **solucionar problemas como la falta de información relevante, así como una estructura y un diseño poco intuitivos que dificultan la navegación y la comprensión de la página web**. Pero este proyecto no solo tiene como propósito facilitar acciones clave o básicas, como realizar pedidos de forma rápida o encontrar información de utilidad, sino también transformar la web en una plataforma orientada a la gestión y organización de eventos privados (despedidas, cumpleaños, LAN parties, etc.), incorporando así una nueva funcionalidad destacada que no se ofrecía en la web original de Capital Burger: la **posibilidad de realizar reservas para este tipo de eventos, además de permitir conocer en todo momento las últimas novedades y los próximos eventos disponibles**.
+
+Para lograrlo, comenzamos realizando nuestro **moodboard**, que nos ayudó a definir la apariencia visual del proyecto. En él establecimos nuestra estrategia de marca, la cual consiste principalmente en un **“facelift” de la web original, mejorando su diseño y funcionalidad y aportando un enfoque más experiencial y social mediante la posibilidad de realizar reservas para organizar eventos**. También definimos nuestra identidad visual mediante tres versiones de nuestro logotipo, que consiste en una **pequeña modificación del logo original introduciendo, de forma inclinada en la esquina superior derecha, el letrero “FACELIFTED”**. Como frase motivadora o eslogan optamos por una que reflejara la esencia de nuestra marca y resumiera la evolución de Capital Burger a Capital Burger Facelift, pasando de una propuesta centrada únicamente en el producto a una marca orientada también a la experiencia social: ***“Más que burgers: un mundo de experiencias para compartir”***.
+
+Asimismo, escogimos **imágenes propias** que reflejan no solo el enfoque experiencial del proyecto, sino que también nos ayudaron a definir nuestra paleta de colores, compuesta por los siguientes tonos: **#FEEB17**, **#F68F24**, **#FFFDE4**, **#1C0000**, **#740000** y **#462E1B**. En cuanto a la tipografía, optamos por ***Anton*** para los títulos y ***Nunito Sans*** para el cuerpo del texto, buscando así un equilibrio entre impacto visual y optimización para la lectura en pantalla. Además, seleccionamos una serie de **imágenes inspiradoras para el diseño**, de forma que nos ayudaran a transmitir correctamente el mensaje que queríamos que los usuarios percibieran y a definir de manera más clara nuestra identidad visual. Finalizamos el moodboard con diferentes **comentarios motivadores de usuarios y características interesantes de nuestros usuarios objetivo**.
+
+Posteriormente, la **landing page** se realizó a partir de ese moodboard con ayuda de Figma Make, aunque no se va a comentar en profundidad debido a que ya no influye directamente en esta práctica, puesto que formó parte de una actividad de teoría realizada en clase.
+
+Seguidamente, para la creación del **Design System** comenzamos utilizando uno de los plugins recomendados en el guión de prácticas: **“Deliverrr”**. Esto nos permitió disponer de paletas de color completas; un sistema tipográfico con estilos para títulos y cuerpo; espaciados, radius, shadows, opacidades…; además de variables y estilos listos para usar. A partir de esto pudimos desarrollar todo el sistema de diseño mediante átomos, moléculas, organismos y patrones.
+
+De forma general, a lo largo de todo el diseño nos hemos apoyado en pequeños detalles de los kits de interfaz de usuario **“Simple Design System”** y **“Material 3 Design Kit”**. Igualmente, en todo el proyecto se han utilizado algunos de los iconos aportados por el plugin **“Iconify”**, destacando el icono de ubicación para los mapas, el de compartir hamburguesa por redes sociales, el de correo electrónico, el de horario, el de teléfono, el de estrella para las valoraciones o el pequeño triángulo empleado en el selector del número de participantes en una reserva para aumentar o disminuir el valor al hacer clic.
+
+**Como punto fuerte del diseño destaca especialmente la página de reservas**, ya que representa el elemento principal ideado en nuestra propuesta de valor. Por ello, es donde más se han concentrado los esfuerzos del proyecto.
+En dicha página, la sección izquierda se divide a su vez en dos partes. En la parte superior se ubica un mapa interactivo que muestra las ubicaciones de los tres restaurantes de Capital Burger. Este mapa está diseñado para que, al hacer clic sobre una ubicación concreta, se muestre justo debajo la tarjeta asociada al restaurante seleccionado, incluyendo una fotografía e información relevante acerca del mismo: nombre, valoración extraída de Google representada mediante cinco estrellas, ubicación con enlace a Google Maps, horario de apertura y teléfono de contacto. El mapa se ha implementado mediante el plugin de Figma **“Google Maps - Map Maker (free)”**.
+En esa misma página, en la sección derecha, se encuentra el formulario de reserva, diseñado con un estilo muy cuidado y compuesto por distintos campos: nombre y apellidos de la persona reservante; número de teléfono; correo de contacto; un calendario para seleccionar el año, el día exacto y la hora de reserva; un selector numérico creado manualmente con la interacción adecuada para aumentar o disminuir el número de participantes mediante un pequeño triángulo; un campo para indicar el tipo o una breve descripción del evento y, por último, una pequeña sección con tres preguntas relevantes relacionadas con posibles alergias o intolerancias alimentarias, condiciones o necesidades de atención especial de alguna persona y cualquier indicación, sugerencia o necesidad adicional relacionada con la reserva. El formulario finaliza con un gran botón de “RESERVAR AHORA”, diseñado para asegurar un contraste adecuado y mantener coherencia con nuestra paleta de colores. Cabe destacar que, para el calendario, se empleó como base el recurso de la comunidad **“iOS 15 UI Kit for Figma”**, aunque posteriormente fue adaptado a nuestro estilo visual y a nuestra paleta de colores.
+
+Para el desarrollo del **Layout Hi-Fi** **hemos empleado todo el diseño elaborado y optado por un enfoque más funcional, agradable y menos cansado para la vista en comparación con la página original de Capital Burger**. En todo momento se ha utilizado la tipografía definida en el moodboard y se ha prestado especial atención a que el contraste de colores fuera apropiado, siguiendo siempre la paleta cromática establecida. Se ha buscado que las páginas contengan únicamente la cantidad de contenido justa y necesaria para no fatigar al usuario, tratando además de que la experiencia sea intuitiva y sencilla de utilizar. Todo está accesible a un solo clic. Además, en el prototipo **se han simulado todos los comportamientos de animación y transiciones**.
+
+En **conclusión**, consideramos que el resultado obtenido es muy positivo y que siempre existe margen de mejora. En nuestro caso, las páginas más secundarias del proyecto -es decir, aquellas menos relacionadas con nuestra propuesta de valor principal- también han sido mejoradas respecto a la versión original en términos de visibilidad y facilidad de uso, cumpliendo así otro de nuestros objetivos: lograr una web más usable y accesible para los clientes. No obstante, con más tiempo disponible, nos habría gustado seguir trabajando en el diseño de dichas páginas secundarias para perfeccionar más todos los detalles y alcanzar un resultado todavía más completo.
+
+:link: **Enlace al documento PDF: [Briefing](P3/4.Briefing/Briefing.pdf)**
 
 
 
