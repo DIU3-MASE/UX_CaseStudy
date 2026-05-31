@@ -704,8 +704,13 @@ Además, la integración de otros grupos de clase para realizar una evaluación 
 
 ## Conclusiones finales & Valoración de las prácticas
 
+Durante esta práctica nos hemos dedicado plenamente a la creación, desarrollo y eventual publicación de una página web que hemos orientado como mejora de una web ya existente: Capital Burger. Nuestro trayecto a lo largo de las prácticas se puede observar leyendo este propio README.
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
+Decir que ha sido un camino fácil sería mentir. No porque sea complejo (aunque la práctica 4 se tuviera que acortar por limitaciones, y la hayamos tenido que hacer con Figma Make por nuestra inexperiencia con React), sino porque en muchos momentos nos han faltado algunos conocimientos y bastante tiempo para poder realizar los informes y todo el apartado creativo correctamente. Tampoco podemos negar que todo esto ha sido cuanto menos divertido, y que el resultado final, además de ser funcional, se ve bien.
+
+Los temas a mejorar seguramente ya se sepan, mayoritariamente todo el tema añadido en la práctica 4 sobre React, a este nivel no se poseen los conocimientos como para desarrollar una web entera sin ayuda de nadie con ese idioma. También los guiones de prácticas tienden a ser muy extensos y cargados de texto, y es difícil perder información importante cuando se está leyendo debido a esto.
+
+En conclusión, una asignatura divertida que repetiríamos.
 
 
 
