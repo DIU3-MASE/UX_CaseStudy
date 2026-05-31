@@ -1,4 +1,4 @@
-# DIU - Practica 4, entregables
+# Practica 4: Exportación + Documentación - entregables 
 
 - Briefing: [Briefing](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P4/3.Briefing/Briefing.pdf)
 
