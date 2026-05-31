@@ -551,29 +551,43 @@ A partir de ese punto, el resto del proceso consistió principalmente en **guiar
 
 ## Paso 5. Pruebas de Evaluación 
 
-### 5.a Reclutamiento de usuarios 
+### 5.a.I Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
 -----
 
+El caso asignado (caso B) y que nos hemos encargado de evaluar es el proyecto [*La Qarmita*](https://github.com/charlyggez/UX_CaseStudy) perteneciente al equipo *DIU2.Monki*.
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
+Se muestra a continuación la tabla demográfica del reclutamiento de 5 participantes para evaluar el proyecto *La Qarmita* (caso B) y de los 5 participantes para evaluar nuestro propio proyecto *Capital Burger Facelift* (caso A):
+
+![Plan de reclutamiento de participantes](P5/1.Plan_de_reclutamiento_de_participantes/Plan_de_reclutamiento_de_participantes.png)
+
+:link: **Enlace al documento PDF: [Plan de reclutamiento de participantes](P5/1.Plan_de_reclutamiento_de_participantes/Plan_de_reclutamiento_de_participantes.pdf)**
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-
-
-### 5.b Diseño de las pruebas 
+### 5.a.II Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Para realizar nuestros hallazgos, hemos utilizado una **metodología de A/B testing**, comparando la página asignada con la que hemos creado nosotros. Para ello, hemos contado con un total de 10 participantes anónimos reclutados específicamente para la tarea.
 
+Hemos empleado el **cuestionario SUS**, estándar en este tipo de evaluaciones, cuyos resultados y análisis se presentarán en las próximas secciones. 
+
+Además, se han generado heatmaps mediante el seguimiento de la mirada (**Eye Tracking**) utilizando la aplicación GazeMapping, a partir de varias capturas de la página asignada.
+
+
+### 5.b Aplicación del método Eye Tracking 
+![Método UX](img/eye-tracking.png)
+----
+
+>>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+
+
+![experimento](img/experimentoET.png)  
+>>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+
+>>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
 
 
 ### 5.c Cuestionario SUS
@@ -591,18 +605,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 -----
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
-
-### 5.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
-----
-
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
-
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
 
 
 ### 5.f Usability Report de B
