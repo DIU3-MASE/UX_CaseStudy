@@ -581,13 +581,29 @@ Además, se han generado heatmaps mediante el seguimiento de la mirada (**Eye Tr
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Para la **evaluación de seguimiento ocular sobre el caso B (*La Qarmita*)**, se han seleccionado tres usuarios con perfiles diferentes. Cada uno de ellos ha llevado a cabo dos ejercicios sobre la página web objeto de estudio. A partir de los resultados obtenidos, se han generado dos **mapas de calor** -uno por ejercicio- que agrupan y visualizan la información recopilada de los tres participantes.
 
+Para ello, hemos empleado la herramienta GazeMapping. Este análisis es fundamental para validar la jerarquía visual y la ubicación de elementos críticos mediante el estudio de Zonas de Interés (AOI/POI).
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+A continuación, se indica en qué ha consistido cada ejercicio y se muestran los mapas de calor generados:
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+**Ejercicio 1:** Navegación libre, página principal.
+![Mapa de calor Ejercicio 1](P5/2.Resultados_del_Eye_Tracking/Mapa_de_calor_Ejercicio_1.png)
+
+**Ejercicio 2:** Investigar eventos.
+![Mapa de calor Ejercicio 2](P5/2.Resultados_del_Eye_Tracking/Mapa_de_calor_Ejercicio_2.png)
+
+**Conclusiones:**
+
+No es posible extraer un gran número de conclusiones a partir de estos mapas de calor debido al reducido tamaño de la página y a las limitaciones de su implementación, que impiden visualizarla completamente durante el análisis.
+
+Además, al generar el mapa de calor correspondiente al segundo ejercicio, todo parece indicar que la herramienta ha presentado algún tipo de fallo, ya que ha proporcionado aparentemente el mismo mapa que en el ejercicio anterior, a pesar de tratarse de una página diferente y de una tarea distinta. Por ello, los resultados deben interpretarse con mucho cuidado.
+
+Aun así, pueden identificarse algunos **patrones de comportamiento interesantes**: 
+
+En cuanto al primer ejercicio, se observa que los usuarios tienden a pasar por encima del texto que describe la historia del local sin detenerse a leerlo. La mayor parte de la atención se concentra en los elementos que más destacan visualmente sobre el fondo, especialmente la información relativa a la ubicación y el apartado «EXPLORA LOCALES ASOCIADOS» y la imagen que acompaña al texto de la historia.
+
+Respecto al segundo ejercicio, y asumiendo que el mapa de calor generado es válido, puede apreciarse que los usuarios apenas prestan atención a la barra de búsqueda de eventos, que resulta prácticamente ignorada durante la realización de la tarea. Además, aunque la mayoría de los participantes seleccionó el primer evento destacado, el mapa de calor muestra una mayor concentración de atención sobre el tercer evento. Esta discrepancia podría deberse a problemas de calibración o a, efectivamente, un funcionamiento impreciso de la herramienta utilizada. No obstante, también constituye una observación relevante que conviene tener en cuenta en el análisis e interpretación de los resultados.
 
 
 ### 5.c Cuestionario SUS
