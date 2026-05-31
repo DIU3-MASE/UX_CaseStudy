@@ -685,7 +685,7 @@ El **informe de accesibilidad del proyecto [*La Qarmita*](https://github.com/cha
 
 El **informe de usabilidad del proyecto [*La Qarmita*](https://github.com/charlyggez/UX_CaseStudy) (caso B)** se puede consultar en el siguiente enlace, donde se aportan los resultados y la valoración de cada debilidad de usabilidad del proyecto evaluado:
 
-:link: **Enlace al documento PDF: [Usability Report](P5/5.Accesibility_Report/Usability_Report_(Caso_B).pdf)**
+:link: **Enlace al documento PDF: [Usability Report](P5/6.Usability_Report/Usability_Report_(Caso_B).pdf)**
 
 
 ### Valoración personal del equipo sobre la práctica 5
