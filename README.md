@@ -555,10 +555,10 @@ A partir de ese punto, el resto del proceso consistió principalmente en **guiar
 ![Método UX](img/usability-testing.png)
 -----
 
-El caso asignado (caso B) y que nos hemos encargado de evaluar es el proyecto [*La Qarmita*](https://github.com/charlyggez/UX_CaseStudy) perteneciente al equipo *DIU2.Monki*.
+**El caso asignado (caso B) y que nos hemos encargado de evaluar es el proyecto [*La Qarmita*](https://github.com/charlyggez/UX_CaseStudy) perteneciente al equipo *DIU2.Monki*.**
 
 Este proyecto busca mejorar la experiencia de los usuarios que visitan La Qarmita, una cafetería cultural en Granada que organiza eventos, talleres y actividades relacionadas con la cultura y la sostenibilidad.
-La investigación se centra en comprender cómo los usuarios descubren estos eventos, qué información necesitan antes de asistir y qué barreras encuentran durante el proceso.
+La investigación de dicho proyecto se ha centradp en comprender cómo los usuarios descubren estos eventos, qué información necesitan antes de asistir y qué barreras encuentran durante el proceso.
 
 Se muestra a continuación la tabla demográfica del reclutamiento de 5 participantes para evaluar el proyecto *La Qarmita* (caso B) y de los 5 participantes para evaluar nuestro propio proyecto *Capital Burger Facelift* (caso A):
 
