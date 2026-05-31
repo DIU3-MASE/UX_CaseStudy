@@ -672,17 +672,25 @@ Este último gráfico permite observar que, con el número de participantes recl
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de accesibilidad para práctica B (la de los compañeros)
+Puesto que el proyecto de [*La Qarmita*](https://github.com/charlyggez/UX_CaseStudy) (caso B) no es compatible con las herramientas de evaluación estándar de accesibilidad, hemos tenido que realizar este análisis a mano. Por ende, al no ser la plantilla que se nos había proporcionado compatible con nuestra situación, este informe presenta un tono más informal y natural para poder realizar un análisis de accesibilidad adaptado al proyecto evaluado. 
+
+El **informe de accesibilidad** del caso B se puede consultar en el siguiente enlace:
+
+:link: **Enlace al documento PDF: [Accesibility Report](P5/5.Accesibility_Report/Accesibility_Report_(Caso_B).pdf)**
 
 
 ### 5.f Usability Report (del caso B)
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+El **informe de usabilidad** del proyecto [*La Qarmita*](https://github.com/charlyggez/UX_CaseStudy) (caso B) se puede consultar en el siguiente enlace, donde se aportan los resultados y la valoración de cada debilidad de usabilidad del proyecto evaluado:
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+:link: **Enlace al documento PDF: [Usability Report](P5/5.Accesibility_Report/Usability_Report_(Caso_B).pdf)**
+
+
+### Valoración personal del equipo sobre la práctica 5
+-----
+Valoración:
 
 
 
