@@ -556,8 +556,9 @@ A partir de ese punto, el resto del proceso consistió principalmente en **guiar
 -----
 
 El caso asignado (caso B) y que nos hemos encargado de evaluar es el proyecto [*La Qarmita*](https://github.com/charlyggez/UX_CaseStudy) perteneciente al equipo *DIU2.Monki*.
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+
+Este proyecto busca mejorar la experiencia de los usuarios que visitan La Qarmita, una cafetería cultural en Granada que organiza eventos, talleres y actividades relacionadas con la cultura y la sostenibilidad.
+La investigación se centra en comprender cómo los usuarios descubren estos eventos, qué información necesitan antes de asistir y qué barreras encuentran durante el proceso.
 
 Se muestra a continuación la tabla demográfica del reclutamiento de 5 participantes para evaluar el proyecto *La Qarmita* (caso B) y de los 5 participantes para evaluar nuestro propio proyecto *Capital Burger Facelift* (caso A):
 
