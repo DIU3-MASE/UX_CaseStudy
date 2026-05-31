@@ -633,7 +633,11 @@ Posteriormente, los resultados obtenidos han sido procesados mediante la **[herr
 
 Además, se ha llevado a cabo un **análisis complementario de forma manual aprovechando las funcionalidades de la propia hoja de cálculo**, con el objetivo de contrastar los resultados obtenidos y elaborar un análisis propio, más resumido, compacto y fácil de interpretar en la misma hoja. Para ello, se han implementado las fórmulas necesarias para calcular las puntuaciones de los cuestionarios SUS, las medias correspondientes y los adjetivos asociados a la escala de interpretación SUS en función de los resultados obtenidos.
 
-El **resultado detallado de todos los cuestionarios SUS por separado se puede consultar [aquí](P5/4.Cuestionarios_SUS_y_analisis_de_resultados/Cuestionarios_SUS.pdf)**. 
+A modo de ejemplo, se presenta a continuación uno de los cuestionarios SUS obtenidos durante el estudio, concretamente el correspondiente al participante con identificador 10:
+
+![Ejempl de Cuestionario SUS rellenado por el participante con identificador 10](P5/4.Cuestionarios_SUS_y_analisis_de_resultados/Ejemplo_de_Cuestionario_SUS_para_poner_en_README.png)
+
+El **resultado detallado de todos los cuestionarios SUS por separado, rellenados por cada participante, se puede consultar [aquí](P5/4.Cuestionarios_SUS_y_analisis_de_resultados/Cuestionarios_SUS.pdf)**. 
 
 Las **valoraciones medias finales** obtenidas en nuestro proyecto *Capital Burger Facelift* (caso A) y en el proyecto *La Qarmita* (caso B), junto con las interpretaciones asociadas a dichas puntuaciones, se muestran a continuación. Estos resultados, como ya se ha explicado anteriormente, han sido elaborados manualmente a partir de la hoja de cálculo en la que se recopilaron y completaron todos los cuestionarios SUS.
 
