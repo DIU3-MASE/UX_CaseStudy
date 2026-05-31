@@ -15,3 +15,6 @@
 
 
 ### Conclusiones
+Esta práctica 5 nos ha permitido comprender la importancia de llevar a cabo evaluaciones de nuestro prototipo con usuarios reales. Mediante herramientas habituales de UX Research como el A/B Testing, el cuestionario SUS, el Eye Tracking y la evaluación de usabilidad y accesibilidad, hemos podido obtener información valiosa sobre el comportamiento del usuario y su contexto, lo que nos ha permitido identificar posibles mejoras en nuestro proyecto.
+
+Además, la integración de otros grupos de clase para realizar una evaluación cruzada de las prácticas nos ha proporcionado una visión externa y objetiva del proyecto, lo cual es fundamental para diseñar productos más usables, accesibles y alineados con las necesidades reales de los usuarios finales.
