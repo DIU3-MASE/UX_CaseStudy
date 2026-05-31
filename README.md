@@ -583,7 +583,7 @@ Además, se han generado heatmaps mediante el seguimiento de la mirada (**Eye Tr
 
 Para la **evaluación de seguimiento ocular sobre el caso B (*La Qarmita*)**, se han seleccionado tres usuarios con perfiles diferentes. Cada uno de ellos ha llevado a cabo dos ejercicios sobre la página web objeto de estudio. A partir de los resultados obtenidos, se han generado dos **mapas de calor** -uno por ejercicio- que agrupan y visualizan la información recopilada de los tres participantes.
 
-Para ello, hemos empleado la herramienta GazeMapping. Este análisis es fundamental para validar la jerarquía visual y la ubicación de elementos críticos mediante el estudio de Zonas de Interés (AOI/POI).
+Para ello, hemos empleado la **herramienta GazeMapping**. Este análisis es fundamental para validar la jerarquía visual y la ubicación de elementos críticos mediante el estudio de Zonas de Interés (AOI/POI).
 
 A continuación, se indica en qué ha consistido cada ejercicio y se muestran los mapas de calor generados:
 
