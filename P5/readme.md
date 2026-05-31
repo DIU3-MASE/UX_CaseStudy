@@ -1,4 +1,4 @@
-## Practica 5: Exportación + Documentación - entregables 
+# DIU - Practica 5, entregables
 
 Se publicará la Asignacion_ABtesting Se publicará la lista de grupos y los respectivos GitHub
 
