@@ -606,6 +606,8 @@ En cuanto al primer ejercicio, se observa que los usuarios tienden a pasar por e
 
 Respecto al segundo ejercicio, y asumiendo que el mapa de calor generado es válido, puede apreciarse que los usuarios apenas prestan atención a la barra de búsqueda de eventos, que resulta prácticamente ignorada durante la realización de la tarea. Además, aunque la mayoría de los participantes seleccionó el primer evento destacado, el mapa de calor muestra una mayor concentración de atención sobre el tercer evento. Esta discrepancia podría deberse a problemas de calibración o a, efectivamente, un funcionamiento impreciso de la herramienta utilizada. No obstante, también constituye una observación relevante que conviene tener en cuenta en el análisis e interpretación de los resultados.
 
+:link: **Enlace al documento PDF: [Resultados del Eye Tracking (Caso B)](P5/2.Resultados_del_Eye_Tracking/Resultados_del_Eye_Tracking_(Caso_B).pdf)**
+
 
 ### 5.c Evaluación de uso (del caso B)
 ![Método UX](img/ABtesting.png) 
@@ -617,6 +619,8 @@ Los tres participantes lograron completar la tarea con éxito, aunque se observa
 Dos de los tres usuarios localizaron rápidamente la sección de eventos y completaron la reserva sin incidencias, seleccionando de forma casi inmediata un evento que llamó su atención. Por el contrario, uno de los participantes experimentó ciertas dificultades iniciales para encontrar un evento que resultara de su interés. Además, la barra de búsqueda pasó completamente desapercibida para este usuario, que optó por explorar la página mediante desplazamiento vertical hasta localizar el evento situado en última posición del listado y que le resultó más atractivo. De todas formas, consiguió también completar la tarea con éxito.
 
 **En ningún caso fue necesaria la intervención de los evaluadores**, por lo que se puede concluir que los tres usuarios fueron capaces de completar el proceso de reserva de manera autónoma.
+
+:link: **Enlace al documento PDF: [Evaluación de uso (Caso B)](P5/3.Evaluacion_de_uso/Evaluacion_de_uso_(Caso_B).pdf)**
 
 
 ### 5.d Cuestionarios SUS y análisis de resultados
