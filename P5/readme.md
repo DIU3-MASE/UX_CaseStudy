@@ -1,14 +1,13 @@
 # DIU - Practica 5, entregables
 
-Se publicará la Asignacion_ABtesting Se publicará la lista de grupos y los respectivos GitHub
+- Plan de reclutamiento de participantes: [Plan de reclutamiento de participantes](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P5/1.Plan_de_reclutamiento_de_participantes/Plan_de_reclutamiento_de_participantes.pdf)   
+- Resultados del Eye Tracking: [Resultados del Eye Tracking](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P5/2.Resultados_del_Eye_Tracking/Resultados_del_Eye_Tracking_(Caso_B).pdf) 
+- Evaluación de uso: [Layout Hi-Fi](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P5/3.Evaluacion_de_uso/Evaluacion_de_uso_(Caso_B).pdf)
+- Cuestionarios SUS: [Cuestionarios SUS](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P5/4.Cuestionarios_SUS_y_analisis_de_resultados/Cuestionarios_SUS.pdf)
+  - Análisis (manual) de resultados de los cuestionarios SUS: [Análisis (manual) de resultados de los cuestionarios SUS](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P5/4.Cuestionarios_SUS_y_analisis_de_resultados/Analisis_de_resultados/Sin_herramienta/Analisis_manual_de_resultados_Cuestionarios_SUS.pdf)
+  - Análisis (con herramienta) de resultados de los cuestionarios SUS: [Análisis (con herramienta) de resultados de los cuestionarios SUS](https://github.com/DIU3-MASE/UX_CaseStudy/tree/master/P5/4.Cuestionarios_SUS_y_analisis_de_resultados/Analisis_de_resultados/Con_herramienta)
+- Accesibility Report: [Accesibility Report](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P5/5.Accesibility_Report/Accesibility_Report_(Caso_B).pdf)
+- Usability Report: [Usability Report](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P5/5.Usability_Report/Usability_Report_(Caso_B).pdf)
 
-Users. Elección y características de los usuarios reclutados
-Diseño de las pruebas
-Realización del Cuestionario SUS para usuarios y casos A y B.
-Tabla A/B Testing con resultados para A y B
-Eye Tracking para B
-Usability Report del Caso B, con toda la información recabada del caso B
-Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html)
 
-Conclusiones
-Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study. Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+### Conclusiones
