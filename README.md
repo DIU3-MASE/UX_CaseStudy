@@ -663,8 +663,9 @@ Por último, el **gráfico que indica el carácter concluyente**, visualiza hast
 
 Este último gráfico permite observar que, con el número de participantes reclutados (5) en ambos casos, los resultados del cuestionario SUS no son concluyentes en absoluto, ya que en los dos casos se obtiene un porcentaje del 0%. Por tanto, **para obtener una visión más precisa y concluyente de la usabilidad, sería necesario reclutar un mayor número de participantes**.
 
-:link: **Enlace a la hoja de cálculo: [Cuestionarios SUS](P5/4.Cuestionarios_SUS_y_analisis_de_resultados/Cuestionarios_SUS.xlsx)**
-:link: **Enlace al documento PDF: [Cuestionarios SUS](P5/4.Cuestionarios_SUS_y_analisis_de_resultados/Cuestionarios_SUS.pdf)**
+:link: **Enlace a la hoja de cálculo: [Cuestionarios SUS y análisis manual de resultados](P5/4.Cuestionarios_SUS_y_analisis_de_resultados/Cuestionarios_SUS.xlsx)**
+
+:link: **Enlace al documento PDF: [Cuestionarios SUS y análisis manual de resultados](P5/4.Cuestionarios_SUS_y_analisis_de_resultados/Cuestionarios_SUS.pdf)**
 
 
 ### 5.f Usability Report de B
