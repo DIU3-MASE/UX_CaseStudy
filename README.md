@@ -644,17 +644,21 @@ Por tanto, tal y como se puede observar, **el caso A ha obtenido una mejor puntu
 - **El caso B, que estamos evaluando, ha obtenido una valoración final media de 79,5 (“GOOD”).**
 
 A continuación, se muestra un **gráfico de barras** proporcionado por la herramienta antes mencionada, generado a partir de los datos obtenidos en los cuestionarios SUS realizados. Acompaña al gráfico una tabla explicativa que incluye información relevante para comparar las puntuaciones finales de los casos A y B. Se puede observar de forma clara y visual la valoración media final obtenida en cada caso, así como la interpretación correspondiente según la escala de adjetivos asociada al SUS:
+
 ![SUS Score](P5/4.Cuestionarios_SUS_y_analisis_de_resultados/Analisis_de_resultados/Con_herramienta/main_plot_info.png)
 
 Otros gráficos obtenidos a partir de la herramienta antes mencionada y que aportan más valor al estudio realizado, son los siguientes:
 
 Las puntuaciones de los estudios SUS no siguen una distribución uniforme ni normal. Por ello, los gráficos de barras y los diagramas de caja pueden resultar en ocasiones engañosos a la hora de comparar diferencias entre puntuaciones SUS. La **curva de percentiles**, derivada de más de 5000 puntuaciones de estudios SUS recopiladas por Sauro et al. (2016), permite visualizar las puntuaciones SUS dentro de la distribución acumulada del conjunto de datos, mostrando su posición relativa en términos de percentiles:
-![SUS Score on Percentile-Curve](P5/4.Cuestionarios_SUS_y_analisis_de_resultados/Analisis_de_resultados/Con_herramienta/percentile_plot_info.png.png)
+
+![SUS Score on Percentile-Curve](P5/4.Cuestionarios_SUS_y_analisis_de_resultados/Analisis_de_resultados/Con_herramienta/percentile_plot_info.png)
 
 El **gráfico por ítems** visualiza el impacto de las respuestas de los participantes a preguntas específicas del cuestionario SUS. Los valores por ítem son valores normalizados entre 0 y 10 que representan su contribución a las puntuaciones del estudio SUS, y no los valores de la escala Likert del cuestionario, en el que las preguntas con número par (2, 4, 6, 8 y 10) están formuladas de manera negativa:
+
 ![Per Item Chart](P5/4.Cuestionarios_SUS_y_analisis_de_resultados/Analisis_de_resultados/Con_herramienta/per_item_plot_info.png)
 
 Por último, el **gráfico que indica el carácter concluyente**, visualiza hasta qué punto la puntuación SUS de cada caso es concluyente en función del número de participantes. Este gráfico se basa en datos de Tullis et al. (2006):
+
 ![Conclusiveness Chart](P5/4.Cuestionarios_SUS_y_analisis_de_resultados/Analisis_de_resultados/Con_herramienta/conclusiveness_plot_info.png)
 
 Este último gráfico permite observar que, con el número de participantes reclutados (5) en ambos casos, los resultados del cuestionario SUS no son concluyentes en absoluto, ya que en los dos casos se obtiene un porcentaje del 0%. Por tanto, **para obtener una visión más precisa y concluyente de la usabilidad, sería necesario reclutar un mayor número de participantes**.
