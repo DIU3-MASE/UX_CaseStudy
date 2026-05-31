@@ -558,7 +558,7 @@ A partir de ese punto, el resto del proceso consistió principalmente en **guiar
 **El caso asignado (caso B) y que nos hemos encargado de evaluar es el proyecto [*La Qarmita*](https://github.com/charlyggez/UX_CaseStudy) perteneciente al equipo *DIU2.Monki*.**
 
 Este proyecto busca mejorar la experiencia de los usuarios que visitan La Qarmita, una cafetería cultural en Granada que organiza eventos, talleres y actividades relacionadas con la cultura y la sostenibilidad.
-La investigación de dicho proyecto se ha centradp en comprender cómo los usuarios descubren estos eventos, qué información necesitan antes de asistir y qué barreras encuentran durante el proceso.
+La investigación de dicho proyecto se ha centrado en comprender cómo los usuarios descubren estos eventos, qué información necesitan antes de asistir y qué barreras encuentran durante el proceso.
 
 Se muestra a continuación la tabla demográfica del reclutamiento de 5 participantes para evaluar el proyecto *La Qarmita* (caso B) y de los 5 participantes para evaluar nuestro propio proyecto *Capital Burger Facelift* (caso A):
 
@@ -575,7 +575,7 @@ Para realizar nuestros hallazgos, hemos utilizado una **metodología de A/B test
 
 Hemos empleado el **cuestionario SUS**, estándar en este tipo de evaluaciones, cuyos resultados y análisis se presentarán en las próximas secciones. 
 
-Además, se han generado heatmaps mediante el seguimiento de la mirada (**Eye Tracking**) utilizando la aplicación GazeMapping, a partir de varias capturas de la página asignada.
+Además, se han generado heatmaps mediante el seguimiento de la mirada (**Eye Tracking**) utilizando la aplicación GazeMapping, a partir de varias capturas de pantalla de la página asignada.
 
 
 ### 5.b Aplicación del método Eye Tracking 
