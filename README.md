@@ -672,9 +672,9 @@ Este último gráfico permite observar que, con el número de participantes recl
 ![Método UX](img/usability-report.png) 
 -----
 
-Puesto que el proyecto de [*La Qarmita*](https://github.com/charlyggez/UX_CaseStudy) (caso B) no es compatible con las herramientas de evaluación estándar de accesibilidad, hemos tenido que realizar este análisis a mano. Por ende, al no ser la plantilla que se nos había proporcionado compatible con nuestra situación, este informe presenta un tono más informal y natural para poder realizar un análisis de accesibilidad adaptado al proyecto evaluado. 
+Puesto que el proyecto asignado para evaluar no es compatible con las herramientas de evaluación estándar de accesibilidad, hemos tenido que realizar este análisis a mano. Por ende, al no ser la plantilla que se nos había proporcionado compatible con nuestra situación, este informe presenta un tono más informal y natural para poder realizar un análisis de accesibilidad adaptado al proyecto evaluado. 
 
-El **informe de accesibilidad** del caso B se puede consultar en el siguiente enlace:
+El **informe de accesibilidad del proyecto [*La Qarmita*](https://github.com/charlyggez/UX_CaseStudy) (caso B)** se puede consultar en el siguiente enlace:
 
 :link: **Enlace al documento PDF: [Accesibility Report](P5/5.Accesibility_Report/Accesibility_Report_(Caso_B).pdf)**
 
@@ -683,14 +683,16 @@ El **informe de accesibilidad** del caso B se puede consultar en el siguiente en
 ![Método UX](img/usability-report.png) 
 -----
 
-El **informe de usabilidad** del proyecto [*La Qarmita*](https://github.com/charlyggez/UX_CaseStudy) (caso B) se puede consultar en el siguiente enlace, donde se aportan los resultados y la valoración de cada debilidad de usabilidad del proyecto evaluado:
+El **informe de usabilidad del proyecto [*La Qarmita*](https://github.com/charlyggez/UX_CaseStudy) (caso B)** se puede consultar en el siguiente enlace, donde se aportan los resultados y la valoración de cada debilidad de usabilidad del proyecto evaluado:
 
 :link: **Enlace al documento PDF: [Usability Report](P5/5.Accesibility_Report/Usability_Report_(Caso_B).pdf)**
 
 
 ### Valoración personal del equipo sobre la práctica 5
 -----
-Valoración:
+Esta práctica 5 nos ha permitido comprender la importancia de llevar a cabo evaluaciones de nuestro prototipo con usuarios reales. Mediante herramientas habituales de UX Research como el A/B Testing, el cuestionario SUS, el Eye Tracking y la evaluación de usabilidad y accesibilidad, hemos podido obtener información valiosa sobre el comportamiento del usuario y su contexto, lo que nos ha permitido identificar posibles mejoras en nuestro proyecto.
+
+Además, la integración de otros grupos de clase para realizar una evaluación cruzada de las prácticas nos ha proporcionado una visión externa y objetiva del proyecto, lo cual es fundamental para diseñar productos más usables, accesibles y alineados con las necesidades reales de los usuarios finales.
 
 
 
