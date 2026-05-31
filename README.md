@@ -578,7 +578,7 @@ Hemos empleado el **cuestionario SUS**, estándar en este tipo de evaluaciones, 
 Además, se han generado heatmaps mediante el seguimiento de la mirada (**Eye Tracking**) utilizando la aplicación GazeMapping, a partir de varias capturas de pantalla de la página asignada.
 
 
-### 5.b Aplicación del método Eye Tracking 
+### 5.b Aplicación del método Eye Tracking (al caso B)
 ![Método UX](img/eye-tracking.png)
 ----
 
@@ -607,7 +607,7 @@ En cuanto al primer ejercicio, se observa que los usuarios tienden a pasar por e
 Respecto al segundo ejercicio, y asumiendo que el mapa de calor generado es válido, puede apreciarse que los usuarios apenas prestan atención a la barra de búsqueda de eventos, que resulta prácticamente ignorada durante la realización de la tarea. Además, aunque la mayoría de los participantes seleccionó el primer evento destacado, el mapa de calor muestra una mayor concentración de atención sobre el tercer evento. Esta discrepancia podría deberse a problemas de calibración o a, efectivamente, un funcionamiento impreciso de la herramienta utilizada. No obstante, también constituye una observación relevante que conviene tener en cuenta en el análisis e interpretación de los resultados.
 
 
-### 5.c Evaluación de uso
+### 5.c Evaluación de uso (del caso B)
 ![Método UX](img/ABtesting.png) 
 -----
 
