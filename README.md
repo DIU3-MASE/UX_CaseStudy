@@ -704,14 +704,13 @@ Además, la integración de otros grupos de clase para realizar una evaluación 
 
 ## Conclusiones finales & Valoración de las prácticas
 
-Durante esta práctica nos hemos dedicado plenamente a la creación, desarrollo y eventual publicación de una página web que hemos orientado como mejora de una web ya existente: Capital Burger. Nuestro trayecto a lo largo de las prácticas se puede observar leyendo este propio README.
+Durante las prácticas de esta asignatura, hemos trabajado como diseñadores de interfaces de usuario con un objetivo claro: rediseñar la página web de Capital Burger bajo el nombre de Capital Burger Facelift, transformándola en una plataforma más intuitiva, funcional y orientada a la experiencia del usuario. El proyecto no solo ha buscado mejorar la navegación y el acceso a información relevante, sino también incorporar nuevas funcionalidades relacionadas con la reserva y gestión de eventos privados en los distintos restaurantes de la cadena, así como una sección dedicada a los próximos eventos organizados por la marca. De esta forma, se ha logrado que la página evolucione de un simple sitio informativo y de pedidos a una herramienta que amplía su utilidad y facilita la interacción con los usuarios.
 
-Decir que ha sido un camino fácil sería mentir. No porque sea complejo (aunque la práctica 4 se tuviera que acortar por limitaciones, y la hayamos tenido que hacer con Figma Make por nuestra inexperiencia con React), sino porque en muchos momentos nos han faltado algunos conocimientos y bastante tiempo para poder realizar los informes y todo el apartado creativo correctamente. Tampoco podemos negar que todo esto ha sido cuanto menos divertido, y que el resultado final, además de ser funcional, se ve bien.
+Nuestro trayecto a lo largo de las prácticas se puede observar leyendo este propio README. 
+Decir que ha sido un camino fácil sería mentir. No porque sea complejo (aunque la práctica 4 se tuviera que acortar por limitaciones, y la hayamos tenido que hacer con Figma Make por nuestra inexperiencia con React), sino porque en muchos momentos nos han faltado algunos conocimientos y hemos tenido el tiempo muy justo para poder realizar todo con el alto nivel de calidad y detalle que nos exigimos. Tampoco podemos negar que todo esto ha sido cuanto menos divertido, y que el resultado final, además de ser funcional, ofrece una apariencia visual cuidada. Por tanto, a pesar de las dificultades encontradas a lo largo del proceso, hemos logrado finalizar un proyecto del que nos sentimos muy satisfechos, siendo conscientes de que siempre hay aspectos por mejorar, y estando abiertos a ello.
 
-Los temas a mejorar seguramente ya se sepan, mayoritariamente todo el tema añadido en la práctica 4 sobre React, a este nivel no se poseen los conocimientos como para desarrollar una web entera sin ayuda de nadie con ese idioma. También los guiones de prácticas tienden a ser muy extensos y cargados de texto, y es difícil perder información importante cuando se está leyendo debido a esto.
+Los temas a mejorar seguramente ya se sepan, mayoritariamente todo lo incluido en la práctica 4 sobre React, pues a este nivel no se poseen los suficientes conocimientos como para desarrollar una web entera sin ayuda de nadie con ese idioma. También, señalar que algunos guiones de prácticas tienden a ser muy extensos y cargados de texto, por lo que a veces es difícil perder información importante cuando se está leyendo.
 
-En conclusión, una asignatura divertida que repetiríamos.
+Por último, cabe destacar que nos llevamos un aprendizaje muy valioso para otros proyectos: la herramienta Figma. Aunque en algunos momentos ha supuesto un auténtico reto, nos alegramos de haber aprendido a utilizarla y de la experiencia adquirida.
 
-
-
-
+En conclusión, finalizamos estas prácticas con una sensación muy positiva tras haber incorporado en nuestra formación nuevos conocimientos que, sin duda, sabremos aplicar en el futuro y que nos serán de gran utilidad.
