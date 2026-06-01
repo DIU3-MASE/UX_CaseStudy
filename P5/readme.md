@@ -11,7 +11,7 @@
     - Gráfico por ítems: [Per Item Chart](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P5/4.Cuestionarios_SUS_y_analisis_de_resultados/Analisis_de_resultados/Con_herramienta/per_item_plot_info.png)
     - Gráfico que indica el carácter concluyente: [Conclusiveness Chart](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P5/4.Cuestionarios_SUS_y_analisis_de_resultados/Analisis_de_resultados/Con_herramienta/conclusiveness_plot_info.png)
 - Accesibility Report: [Accesibility Report (Caso B)](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P5/5.Accesibility_Report/Accesibility_Report_(Caso_B).pdf)
-- Usability Report: [Usability Report (Caso B)](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P5/6.Usability_Report/Usability_Report_(Caso_B).pdf)
+- Usability Report: [Usability Report (Caso B)](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P5/6.Usability_Report/REPORT_DIU2_Monki_doneBy_DIU3_MASE.pdf)
 
 
 ### Conclusiones
